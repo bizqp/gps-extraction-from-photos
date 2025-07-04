@@ -9,7 +9,7 @@ Make sure you have Python 3 installed. Then install the required dependencies wi
 
 ```bash
 pip install pillow
----
+
 ```
 ##Usage
 1.Download or clone the repository.
