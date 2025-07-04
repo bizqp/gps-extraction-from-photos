@@ -26,6 +26,7 @@ extract_gps.py
 
 4. The extracted GPS and metadata will be saved into a CSV file.
 
+![image](https://github.com/user-attachments/assets/66be80a4-22b3-45fc-aebd-b814c20f158b)
 
 
 
